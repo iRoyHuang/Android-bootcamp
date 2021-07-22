@@ -9,4 +9,5 @@ Vocabulary Glossary
 https://developers.google.com/android/for-all/vocab-words/?authuser=1
 
 More Useful Hot Key:
-Alt + Enter: select Extract string resource from the popup menu
+
+Alt + Enter: select Extract string resource from the popup menu; to accept the fully qualified class name
