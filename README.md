@@ -7,3 +7,6 @@ https://developer.android.com/courses/kotlin-android-fundamentals/toc?authuser=1
 
 Vocabulary Glossary
 https://developers.google.com/android/for-all/vocab-words/?authuser=1
+
+More Useful Hot Key:
+Alt + Enter: select Extract string resource from the popup menu
